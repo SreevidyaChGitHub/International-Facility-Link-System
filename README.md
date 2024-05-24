@@ -17,11 +17,10 @@ Linkage, Approval and Extract modules.
 
 <b>Contribution as a Team member</b>
 - Analysis of the requirements assigned and preparing low-level design(LLD) document.
-- Creating Database tables, views, writing stored procedures, user-defined functions.
-- Developed SSIS packages in SQL Server 2005 and prepared installation guides to deploy them
+- Developing applications using ASP.NET, C#, Java Script with SQL Server as a Database in the backend.
+- Developing SSIS packages in SQL Server 2005 and prepared installation guides to deploy them
 successfully in the production.
-- Coding using C#, ASP .NET 2.0 and Java Script.
 - Preparing MSI and Installation documents for regular dev builds.
 - Preparing Quality documents to improve project performance and attending regular quality audits
 conducted by the PPM team. 
-- Involved in Unit Testing, Integration System testing and Bug fixing.
+- Unit Testing, Integration System testing and Bug fixing.
