@@ -16,8 +16,8 @@ systems. This enhanced application supports Spanish version as well. It has modu
 Linkage, Approval and Extract modules.
 
 <b>Contribution as a Team member</b>
-- Analysis of the requirements assigned and preparing low-level design(LLD) document.
-- Developing applications using ASP.NET, C#, Java Script with SQL Server as a Database in the backend.
+- Analysing the requirements assigned and preparing low-level design(LLD) document.
+- Coding using ASP.NET, C#, Java Script with SQL Server as a Database in the backend.
 - Developing SSIS packages in SQL Server 2005 and prepared installation guides to deploy them
 successfully in the production.
 - Preparing MSI and Installation documents for regular dev builds.
