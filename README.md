@@ -17,7 +17,8 @@ Linkage, Approval and Extract modules.
 
 <b>Contribution as a Team member</b>
 - Analysing the requirements assigned and preparing low-level design(LLD) document.
-- Coding using ASP.NET, C#, Java Script with SQL Server as a Database in the backend.
+- Coding using ASP.NET, C#, Java Script.
+- Working with SQL Server - databases, tables, views, stored procedures, user-defined functions etc.
 - Developing SSIS packages in SQL Server 2005 and prepared installation guides to deploy them
 successfully in the production.
 - Preparing MSI and Installation documents for regular dev builds.
